@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "734860427979",
+    "firebase_url": "https://vibration-project-d18b0-default-rtdb.firebaseio.com",
+    "project_id": "vibration-project-d18b0",
+    "storage_bucket": "vibration-project-d18b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734860427979:android:c760c3e36389cc17b8d14e",
+        "android_client_info": {
+          "package_name": "com.example.android.tdtapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734860427979-ccguf3e9eeoscgvg6fb8kqukhn2elr8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqSdNWF20Z6aZYS7df6ceVVduT3wU2e8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734860427979-ccguf3e9eeoscgvg6fb8kqukhn2elr8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734860427979:android:4eb7938ff073a0c6b8d14e",
+        "android_client_info": {
+          "package_name": "com.example.vibrationactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734860427979-ccguf3e9eeoscgvg6fb8kqukhn2elr8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqSdNWF20Z6aZYS7df6ceVVduT3wU2e8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734860427979-ccguf3e9eeoscgvg6fb8kqukhn2elr8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
